@@ -1,0 +1,17 @@
+.container {
+  section:first-child{
+    display: flex;
+    justify-content: center;
+  }
+  section:not(:first-child){
+    margin-top: 1rem;
+    padding: 1rem;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  .container {
+    max-width: 80%;
+    margin: 2rem auto 0 auto;
+  }
+}

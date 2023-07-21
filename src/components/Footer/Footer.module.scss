@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  min-height: 1rem;
+  padding: 1rem;
+  background-color: #242424;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+  .link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    color: gray;
+    transition: .25s ease-in-out;
+    &:hover{
+      color: #ccc;
+    }
+  }
+}
