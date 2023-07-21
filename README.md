@@ -2,7 +2,7 @@
 
 Driver.js Example
 ---
- [![Driver.js](readme_assets/driver_js.svg)](https://github.com/sindresorhus/awesome#readme)
+ [![Driver.js](readme_assets/driver_js.svg)](https://driverjs.com/)
 
 This is a simple example of how to use the Driver.js library using [React.js](https://react.dev).
 
